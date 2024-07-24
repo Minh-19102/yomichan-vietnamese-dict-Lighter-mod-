@@ -11,12 +11,15 @@ This is a lighter version of the Vietnamese JMdict. Data is added from the Mazii
 1. Add the yomichan or yomitan extension to your browser (Thêm extension yomichan hoặc yomitan vào trình duyệt)
 2. Download file [jmdict_vietnamese(mod).zip](<./jmdict_vietnamese(mod).zip>)
 3. Go to the settings page of yomichan (or yomitan) and add a dictionary. (Vào trang setting của yomichan (hoặc yomitan) thêm từ điển)
+   
    ![img1](./images/add_dictionary_1.png)
    ![img2](./images/add_dictionary_2.png)
-4. Select the jmdict_vietnamese(mod).zip file you just downloaded (Chọn file jmdict_vietnamese(mod).zip vừa download)
+5. Select the jmdict_vietnamese(mod).zip file you just downloaded (Chọn file jmdict_vietnamese(mod).zip vừa download)
+
    ![img3](./images/add_dictionary_3.png)
    ![img4](./images/add_dictionary_4.png)
-5. Hover over the text and press shift (di chuột trên chữ cần scan và nhấn shift)
+6. Hover over the text and press shift (di chuột trên chữ cần scan và nhấn shift)
+
    ![img5](./images/add_dictionary_5.png)
 
 ## License
